@@ -1,5 +1,6 @@
 # Hi, I'm Bardia 👋
 ### I love Designing Products
+<img scr="https://github.com/bardiahabibi/bardiahabibi/blob/main/GithubBanner.jpg" />
 
 <!--
 **bardiahabibi/bardiahabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
